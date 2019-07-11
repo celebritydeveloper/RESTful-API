@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "owner": 1,
+        "status": "Sold",
+        "price": 1200.2,
+        "state": "Lagos",
+        "city": "Illupeju",
+        "address": "Epic Tower",
+        "type": "One Bedroom",
+        "image_url": "http://theboringdude.com"
+    },
+
+    {
+        "id": 2,
+        "owner": 4,
+        "status": "Available",
+        "price": 1500.5,
+        "state": "Akwa Ibom",
+        "city": "Uyo",
+        "address": "Four Lanes",
+        "type": "Two Bedroom",
+        "image_url": "http://rentit.com"
+    }
+
+]

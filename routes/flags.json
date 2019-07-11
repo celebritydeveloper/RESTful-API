@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "property_id": 1,
+        "reason": "scam",
+        "description": "This guy is fake"
+    },
+
+    {
+        "id": 2,
+        "property_id": 2,
+        "reason": "scammer",
+        "description": "This guy is a faker"
+    }
+
+]

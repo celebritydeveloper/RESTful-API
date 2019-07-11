@@ -1,0 +1,61 @@
+ [
+    {
+        "status": "",
+        "data": {
+            "id": 1,
+            "email": "essiensaviour.a@gmail.com",
+            "first_name": "Saviour",
+            "last_name": "Essien",
+            "password": "Coding3719",
+            "phone_number": "07034696973",
+            "address": "Plaza, Uyo",
+            "is_admin": true
+        }
+    },
+
+    {
+        "status": "",
+        "data": {
+            "id": 2,
+            "email": "essiensaviour.a@gmail.com",
+            "first_name": "Margaret",
+            "last_name": "Essien",
+            "password": "Coding3719",
+            "phone_number": "07034696973",
+            "address": "Plaza, Uyo",
+            "is_admin": true
+        }
+    },
+
+
+    {
+        "status": "",
+        "data": {
+            "id": 3,
+            "email": "essiensaviour.a@gmail.com",
+            "first_name": "Edidiong",
+            "last_name": "Ekpo",
+            "password": "Coding3719",
+            "phone_number": "07034696973",
+            "address": "Plaza, Uyo",
+            "is_admin": true
+        }
+    },
+
+
+    {
+        "status": "",
+        "data": {
+            "id": 4,
+            "email": "essiensaviour.a@gmail.com",
+            "first_name": "Glory",
+            "last_name": "Praise",
+            "password": "Coding3719",
+            "phone_number": "07034696973",
+            "address": "Plaza, Uyo",
+            "is_admin": true
+        }
+    }
+
+    
+]
